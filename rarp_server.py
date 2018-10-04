@@ -19,7 +19,7 @@ def CheckMac(mac_add):
 	data.close()
 	return False
 	
-def main():
+def MASK():
 	if __name__ == "__main__":
 	
 		count = 0
@@ -94,4 +94,4 @@ def main():
 				print()
 					
 			
-main()			
+MASK()			
